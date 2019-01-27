@@ -1,6 +1,4 @@
-# List of Ingredients
-
-This repo serves as a companion to the tutorial [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack).
+# Public Art Website
 
 <img width="1109" alt="screen shot 2019-01-26 at 9 21 02 pm" src="https://user-images.githubusercontent.com/1332366/51795379-4f4e4100-21b0-11e9-8787-5aaafd0c220a.png">
 
