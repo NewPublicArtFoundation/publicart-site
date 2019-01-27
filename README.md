@@ -2,7 +2,8 @@
 
 This repo serves as a companion to the tutorial [A Rock Solid, Modern Web Stack—Rails 5 API + ActiveAdmin + Create React App on Heroku](https://blog.heroku.com/a-rock-solid-modern-web-stack).
 
-![A screenshot of the app in action](https://user-images.githubusercontent.com/449385/39999691-ac283aba-5781-11e8-9507-650baa948a2f.jpg)
+<img width="1109" alt="screen shot 2019-01-26 at 9 21 02 pm" src="https://user-images.githubusercontent.com/1332366/51795379-4f4e4100-21b0-11e9-8787-5aaafd0c220a.png">
+
 
 ## Getting started
 
