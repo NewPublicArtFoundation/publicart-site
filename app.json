@@ -1,12 +1,11 @@
 {
   "name": "Rails + React + ActiveAdmin",
-  "description": "An example of using Create React App with Rails 5 API and ActiveAdmin on Heroku",
-  "repository": "https://github.com/heroku/list-of-ingredients",
+  "description": "Public Art starter app with Rails 5 API and ActiveAdmin on Heroku",
+  "repository": "https://github.com/NewPublicArtFoundation/publicart-site",
   "keywords": [
     "rails",
     "react",
-    "activeadmin",
-    "smoothies"
+    "activeadmin"
   ],
   "scripts": {
     "postdeploy": "bundle exec rake db:seed"
